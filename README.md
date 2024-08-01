@@ -49,26 +49,27 @@ if __name__ == '__main__':
     keyword = "example_keyword"
     main(username, numberOfPosts, keyword, api)
 ```
-##📜 Functions
+## 📜 Functions
 
 - startAuth(): Authenticates the bot with your Twitter credentials.
 - getPosts(username, numberOfPosts, api): Fetches and saves tweets from a specified user's timeline.
 - searchCompetitorPosts(api): Searches and saves tweets related to a specific keyword for competitor analysis.
 - identifyInfluencers(username, numberOfPosts, api): Identifies and saves influencers based on their follower count.
 
-##🐞 Known Issues
+## 🐞 Known Issues
 
 - ❗ Authentication Errors: Ensure your API credentials are correct to avoid authentication errors.
 - ⏳ Rate Limits: Twitter API rate limits may affect the bot's ability to fetch large amounts of data quickly.
 - 🔮 Future Development
 
-##SaaS Implementation: We're working on a SaaS version of this bot to provide more advanced features and scalability.
+## SaaS Implementation: We're working on a SaaS version of this bot to provide more advanced features and scalability.
 
-##📄 License
+## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##📬 Contact
+## 📬 Contact
 
 - Author: Leo
+- Instagram: @justleo_23
 - Twitter: @GrowthWithLeo
