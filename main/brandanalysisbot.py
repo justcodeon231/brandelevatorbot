@@ -111,8 +111,11 @@ def main(username, numberOfPosts, keyword, api):
         print("Something went wrong in Section 3!")
 
 if __name__ == '_main_':
-    startAuth()
-    username = None
-    numberOfPosts = None
-    keyword = None
-    getPosts(username, numberOfPosts)
+    try:
+        api = startAuth()
+        username = input("Enter the username: ")
+        numberOfPosts = int(input("Enter the number of posts to retrieve: "))
+        keyword = input("Enter the keyword to search for: ")
+        main(username, numberOfPosts, keyword, api)
+    except Exception as excp:
+        print("Something went wrong!")
