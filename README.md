@@ -125,7 +125,7 @@ max_tweets = 100
 
 To manage Twitter API rate limits, the bot includes basic rate-limit handling using timers. If you exceed the rate limit, the bot will pause and resume after the necessary cooldown period. This helps prevent errors and extends the bot's ability to fetch data continuously.
 
-## 📜 Preferred License
+## 📜 License
 
 This project is open-source under the [MIT License](LICENSE). Feel free to use, modify, and distribute this code for both personal and commercial projects.
 
