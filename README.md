@@ -36,8 +36,8 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/twitter-engagement-bot.git
-   cd twitter-engagement-bot
+   git clone https://github.com/justcodeon231/brandelevatorbot
+   cd brandelevatorbot
    ```
 
 2. **Install Dependencies**:
