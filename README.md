@@ -93,7 +93,7 @@
    Once you've set up your criteria, execute the script:
 
    ```bash
-   python twitter_bot.py
+   python brandanalysisbotV1.1.py
    ```
 
 4. **Check the Output**:
