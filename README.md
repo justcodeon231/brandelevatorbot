@@ -145,6 +145,6 @@ For questions, suggestions, or collaboration requests, please reach out to me at
 
 - **Author**: Leo
 - **Email**: ntlukaleo@gmail.com
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/GrowthWithLeo)
+- **Twitter**: [@GrowthWithLeo](https://twitter.com/GrowthWithLeo)
 
 Happy Tweeting! 🎉
